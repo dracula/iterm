@@ -2,7 +2,7 @@
 
 > A dark theme for [iTerm 2](http://iterm2.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/iterm.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
